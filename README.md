@@ -1,4 +1,7 @@
 # webcrawlerhttp
+<img id="img" draggable="false" class="style-scope yt-img-shadow" alt="" width="638" 
+src="https://yt3.ggpht.com/yHlRbeRjSgbFIqR50MDz6CjUfKUB00l1dsMGIY6NDMyxs5CU2YugnjhlGu10QmmNmbjJXBjJQ3L1zg=s400-nd-v1-rwa">
+
 A simple web crawler implemented in JavaScript that recursively crawls web pages and extracts URLS from HTML pages. This project demonstrates how to fetch, parse, ad handle HTML documents using `fetch API`, `JSDOM Package`, `URL Constructor`, and recursive algorithms.
 
 ## Features
@@ -52,3 +55,4 @@ The crawler logs the current page being crawled along with any errors it encount
 After crawling the specified website, the script generates a report that:
  - Lists all the URLs found within the website.
  - Sort URL by the count of how many times each URL was encountered during the crawl.
+ 
