@@ -52,3 +52,4 @@ The crawler logs the current page being crawled along with any errors it encount
 After crawling the specified website, the script generates a report that:
  - Lists all the URLs found within the website.
  - Sort URL by the count of how many times each URL was encountered during the crawl.
+![image](https://github.com/user-attachments/assets/6a8fde10-322c-4f68-90f4-367fcba3e31b)
